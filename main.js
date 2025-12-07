@@ -109,6 +109,9 @@ var charvol = {
         "fandui",
         "guixia"
     ],
+    jett: [
+        "kemiao"
+    ],
 };
 let amx = 0;
 let amy = 0;
