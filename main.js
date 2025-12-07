@@ -112,6 +112,9 @@ var charvol = {
     jett: [
         "kemiao"
     ],
+    lhz: [
+        "wcnm"
+    ]
 };
 let amx = 0;
 let amy = 0;
